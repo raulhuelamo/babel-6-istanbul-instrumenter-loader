@@ -1,10 +1,10 @@
 {
-  "name": "babel-istanbul-instrumenter-loader",
-  "version": "1.0.1",
-  "description": "babel stanbul instrumenter loader",
+  "name": "babel-6-istanbul-instrumenter-loader",
+  "version": "1.0.0",
+  "description": "Babel 6 Istanbul Instrumenter Loader",
   "main": "index.js",
   "dependencies": {
-    "babel-istanbul": "^0.3.20"
+    "babel-istanbul": "^0.12.2"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,11 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maoziliang/babel-stanbul-instrumenter-loader.git"
+    "url": "git+https://github.com/raulhuelamo/babel-6-istanbul-instrumenter-loader.git"
   },
   "keywords": [
     "babel",
-    "stanbul",
+    "babel6",
+    "istanbul",
     "instrumenter",
     "webpack",
     "webpack-loader"
@@ -24,7 +25,7 @@
   "author": "maoziliang",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/maoziliang/babel-stanbul-instrumenter-loader/issues"
+    "url": "https://github.com/raulhuelamo/babel-6-istanbul-instrumenter-loader/issues"
   },
-  "homepage": "https://github.com/maoziliang/babel-stanbul-instrumenter-loader#readme"
+  "homepage": "https://github.com/raulhuelamo/babel-6-istanbul-instrumenter-loader#readme"
 }
