@@ -1,10 +1,11 @@
-# Babel istanbul instrumenter loader for webpack
-Fork from [deepsweet/istanbul-instrumenter-loader](https://github.com/deepsweet/istanbul-instrumenter-loader)
+# Babel 6 Istanbul Instrumenter Loader for Webpack
+Fork from [maoziliang/babel-istanbul-instrumenter-loader](https://github.com/maoziliang/babel-istanbul-instrumenter-loader)
+Updated dependencies to work with Babel-Loader ^6.0.0
 
 ## Install
 
 ```
-$ npm install babel-istanbul-instrumenter-loader
+$ npm install babel-6-istanbul-instrumenter-loader
 ```
 
 ## Usage
